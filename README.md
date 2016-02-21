@@ -4,7 +4,7 @@
 ```
 sudo docker build -t nabil/tomcat .
 ```
-0. stART network:
+0. Start network:
 ```
 sudo docker network create mynetwork
 ```
